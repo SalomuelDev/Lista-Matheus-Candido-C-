@@ -1,2 +1,2 @@
 # Exercicios em C (Matheus Candido)
-Apenas para aprendizado.
+Aprendizado, feito no 2º Tecnico.
