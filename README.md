@@ -1,2 +1,2 @@
-# Lista-Matheus-Candido-C-
-Lista-Matheus-Candido
+# Exercicios em C (Matheus Candido)
+Apenas para aprendizado.
